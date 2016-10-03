@@ -1,0 +1,151 @@
+/*breakpoints for small devices goes here*/
+@media (min-width: 992px) and (max-width: 1140px) {
+
+
+
+
+	
+}
+
+
+
+
+/*tab portrait*/
+@media (min-width: 768px) and (max-width: 992px) {
+
+
+
+
+
+}
+
+
+/*generic mobile devices*/
+@media (max-width:767px) {
+	
+	.top_menu .contact.list-inline {
+	  text-align: center;
+	}
+	.top_menu .social_icon.pull-right.list-inline {
+	  margin-bottom: 10px;
+	  margin-left: 36px;
+	  margin-top: 10px;
+	  text-align: center;
+	}
+	.buzz {
+	  font-size: 25px;
+	  margin: 16px 0 -9px 69px;
+	}
+	.logo_area .col-md-4 .form-control {
+	  float: left;
+	  height: 26px;
+	  margin: 8px 2px 0 0;
+	  width: 62%;
+	}
+	.logo_area .col-md-4 .btn.btn-danger {
+	  height: 26px;
+	  margin: 3px 0px 0 0px;
+	  padding: 2px 9px 3px 9px;
+	}
+	.navbar-right {
+	  margin-top: 20px;
+	  margin-bottom: -11px;
+	}
+	.main_logo.img-responsive > img {
+	  margin: 0 0 0 53px;
+	}
+	.logo_area .col-md-4 .navbar-form.navbar-right.navbar-warning {
+	  display: block;
+	  margin: 35px 0 -12px 50px;
+	}
+	.playground .viewport .tlt {
+	  font-size: 12px;
+	  font-weight: normal;
+	}
+	.services .panel.panel-danger {
+	  font-size: 12px;
+	}
+	.service_sub-text {
+	  font-size: 20px;
+	}
+	.service_sub_para {
+	  font-size: 12px;
+	}
+	.portfolio .panel.panel-danger {
+	  font-size: 12px;
+	}
+	.view {
+	  margin: 7px 0px 0 23px;
+	}
+	.our_team .img-responsive.img-circle {
+	  display: block;
+	  margin: 35px auto;
+	}
+	.contact_us_form .form-control {
+	  width: 329px;
+	}
+	.contact_us_form .col-md-6 > h3 {
+	  padding: 36px 0 17px;
+	  text-align: center;
+	}
+	.sometext {
+	  font-size: 12px;
+	  text-align: justify;
+	}
+	.street {
+	  text-align: center;
+	}
+	.number {
+	  text-align: center;
+	}
+	.footer_icon.pull-right.list-inline {
+	  margin-left: 28px;
+	}
+	.our_team .corner_border {
+	  bottom: 7px;
+	  left: 126px;
+	  width: 50px;
+	}
+	.news_latter .corner_border_left {
+	  right: 110px;
+	  top: 39px;
+	  width: 50px;
+	}
+	.news_latter .corner_border {
+	  left: 111px;
+	  width: 50px;
+	  bottom: 8px;
+	}
+	.corner_border_left {
+	  right: 119px;
+	  width: 60px;
+	}
+	.corner_border {
+	  bottom: 12px;
+	  left: 121px;
+	  width: 60px;
+	}
+	.our_team .corner_border_left {
+	  right: 124px;
+	  width: 50px;
+	}
+	.service_header {
+	  font-size: 20px;
+	}
+	#back-to-top {
+	  bottom: 8px !important;
+	  right: 9px;
+	}
+	.main_menu .nav.navbar-nav > li {
+	  margin: 0;
+	  padding: 2px 0;
+	}
+	.navbar-toggle {
+	  margin-bottom: 10px;
+	  margin-top: 19px;
+	}
+	
+
+} 
+
+
